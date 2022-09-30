@@ -8,5 +8,5 @@
 ##### 화면 설명
 오른쪽 위에는 게임시간과 점수가 나타난다.
 <p>
-<img src="turtle_runaway.jpg"/>
+<img src="turtle_runaway.JPG"/>
 </p>
