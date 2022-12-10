@@ -1,4 +1,4 @@
-# MusicBot
+# Music_Bot
 
 ## Index
 - Introduction
