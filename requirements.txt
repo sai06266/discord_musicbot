@@ -1,0 +1,6 @@
+discord
+discord.ext
+random
+youtube_dl
+selenium
+bs4
